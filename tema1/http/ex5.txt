@@ -1,0 +1,8 @@
+Metodele http:
+    -delete
+    -get
+    -patch
+    -post
+    -put
+
+Acestea vor intoarce 100 la Informational responses, 200 la succes, 300 la redirection, 400 la client errors si 500 la server errors
